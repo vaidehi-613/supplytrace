@@ -1,0 +1,11 @@
+pyspark==3.4.1
+delta-spark==2.4.0
+pandas==2.0.3
+numpy==1.24.4
+feedparser==6.0.10
+fredapi==0.5.1
+faker==19.6.2
+python-dotenv==1.0.0
+jupyter==1.0.0
+ipykernel==6.25.2
+requests==2.31.0
